@@ -1,0 +1,100 @@
+.titulo {
+  height: 100px;
+  width: 2600px;
+  background-color: white;
+  margin: 10px;
+}
+
+.cuadrado {
+  position: fixed;
+  top: 105px;
+  left: 1500px;
+  height: 473px;
+  height: 1000px;
+  width: 1000px;
+  background-color: black;
+  margin: 1px;
+}
+.imagen {
+  position: fixed;
+  top: 300px;
+  right: 700px;
+  height: 473px;
+  width: 772px;
+  background-color: indigo;
+  margin: 1px;
+}
+.texto {
+  position: fixed;
+  top: 290px;
+  left: 550px;
+  height: 500px;
+  width: 350px;
+  background-color: white;
+  margin: 1px;
+  text-align: center;
+}
+.cotizar {
+  background-color: red;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  height: 37px;
+  width: 150px;
+  border-radius: 30px;
+  margin: 0%;
+  position: fixed;
+  top: 45%;
+  left: 20%;
+}
+.ver {
+  background-color: white;
+  color: red;
+  text-align: center;
+  padding: 15px;
+  height: 37px;
+  width: 150px;
+  border-radius: 30px;
+  border-style: solid;
+  border-color: red;
+  margin: 0%;
+  position: fixed;
+  top: 45%;
+  left: 28%;
+}
+
+.redes {
+  height: 70px;
+  width: 20px;
+  position: fixed;
+  top: 60%;
+}
+.parrafo {
+  height: 500px;
+  width: 600px;
+  position: fixed;
+  top: 70%;
+  left: 20%;
+  text-align: center;
+}
+.carros {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: grey;
+  font-size: 30px;
+}
+.pregunta {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  letter-spacing: 4px;
+  font-size: 30px;
+}
+.text {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.5px;
+  line-height: 350%;
+  text-align: center;
+}
+.class {
+  background-color: blueviolet;
+}
